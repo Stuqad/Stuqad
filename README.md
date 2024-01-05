@@ -5,17 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stuqad" alt="stuqad" /></a> </p>
 
-- 🔭 I’m currently working on **minecraft client**
+- 🔭 I’m currently working on: **Minecraft Client and also my devblog website**
 
-- 🌱 I’m currently learning **Java, Httml & Python**
+- 🌱 I’m currently learning: **Java, Httml & Python**
 
-- 📫 My discord **stuqad.space**
+- 📫 📫 How to reach me Discord: **stuqad.space**
 
-- ⚡ Fun fact **I love learning coding**
+- ⚡If you wamma know about my experiences and any other info about me: (soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/stuqad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/stuqad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube.com/stuqad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube.com/stuqad" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/jeJ6JKv6hP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jeJ6JKv6hP" height="30" width="40" /></a>
 </p>
 
