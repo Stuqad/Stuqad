@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Java, Httml & Python**
 
-- 📫 📫 How to reach me Discord: **stuqad.space**
+- 📫 How to reach me Discord: **stuqad.space**
 
 - ⚡If you wamma know about my experiences and any other info about me: (soon)
 
