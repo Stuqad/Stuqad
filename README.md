@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 <h1 align="center">Hi 👋, I'm Stuqad</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
@@ -26,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stuqad&show_icons=true&locale=en&layout=compact" alt="stuqad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stuqad&show_icons=true&locale=en" alt="stuqad" /></p>
--->
